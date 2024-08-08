@@ -1,6 +1,6 @@
 app_name = "airplane_mode"
 app_title = "Airplane Mode"
-app_publisher = "VIP"
+app_publisher = "PUB"
 app_description = "Manage Airplane_mode in frappe"
 app_email = "kajals23@navgurukul.org"
 app_license = "mit"
