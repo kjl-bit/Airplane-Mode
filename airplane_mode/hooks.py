@@ -151,6 +151,7 @@ app_license = "mit"
 # 	],
 # }
 
+
 # Testing
 # -------
 
@@ -227,3 +228,6 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+# hooks.py  
+
+# Example app hooks file  
